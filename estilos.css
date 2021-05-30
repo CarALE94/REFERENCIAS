@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(43, 226, 83, 0.705);
+}
+div{
+    background-color: rgba(255, 255, 255, 0.637);
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+    background-color: rgba(25, 0, 255, 0.336);
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+img{
+    margin-bottom: 15px;
+    margin-right: 15px;
+    float: left;
+}
